@@ -1,8 +1,7 @@
+manifest.json
 {
-    "manifest_version": 2,
-    "id": "my-app-id", 
-    "name": "My DApp Name", 
-    "description": "A brief description of your DApp.", 
-    "url": "https://main--walletconnect0r.netlify.app"
-  }
-  
+  "url": "https://walletconnect0r.netlify.app/",
+  "name": "Ton Wallet connect",
+  "iconUrl": "https://imgs.search.brave.com/vTpgVMh-syYhLO1TGXWR4wxBgklGBCwJufN279Ovh0k/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzJt/ejNkci9zdHlsZXMv/Y29tbXVuaXR5SWNv/bl9sNTM4ajM1ZnRk/M2IxLnBuZw"
+
+}
